@@ -1,2 +1,3 @@
 clean'
 adding to clean
+add line amod
